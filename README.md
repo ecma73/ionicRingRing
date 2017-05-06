@@ -1,2 +1,2 @@
 # ionicRingRing
-Android Version of RingRing for Zen Innovation
+Ionic Android Native Version of Ring-Ring for Zen Innovation (M)
